@@ -1,4 +1,3 @@
-const uri = "http://localhost:3000/";
 const prods = document.querySelector(".conteiner");
 const produtos = [
     {
